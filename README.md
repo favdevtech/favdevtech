@@ -3,7 +3,7 @@
 <h3 align="center">AI-Powered Fullstack developer</h3>
 <h4 align="center">Skilled code isn't just about what it does; it's about the trust it builds<br/>
 “Money is necessary in life, but the most important is Good Relationship, 
-Trusting and Top skill, not money” <br/> This is my working slogan.</h4>
+Trusting and Top skill, not money” </h4>
 <div align="center" dir="auto">
 <img src="https://5.imimg.com/data5/TR/OQ/MY-24528926/mobile-app-development-services-500x500.jpg" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
