@@ -4,7 +4,6 @@
 <h4 align="center">Skilled code isn't just about what it does; it's about the trust it builds<br/>
 “Money is necessary in life, but the most important is Good Relationship, 
 Trusting and Top skill, not money” <br/> This is my working slogan.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=favdevtech&label=Profile%20views&color=0e75b6&style=flat" alt="favdevtech" /> </p>
 <div align="center" dir="auto">
 <img src="https://5.imimg.com/data5/TR/OQ/MY-24528926/mobile-app-development-services-500x500.jpg" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
@@ -40,8 +39,3 @@ Trusting and Top skill, not money” <br/> This is my working slogan.</h4>
   </a>
 </p>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favdevtech&" alt="favdevtech" /></p>
-</div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favdevtech" alt="favdevtech" /></a> </p>
