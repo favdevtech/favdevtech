@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm favdevtech</h1><br>
-<h3 align="center">Cross-Platform & Native App | Web | AI Developer</h3>
-<h4 align="center">I am a dedicated, reliable and responsible developer who always focuses on credit.<br/>
+<h3 align="center">AI-Powered Fullstack developer</h3>
+<h4 align="center">Skilled code isn't just about what it does; it's about the trust it builds<br/>
 “Money is necessary in life, but the most important is Good Relationship, 
 Trusting and Top skill, not money” <br/> This is my working slogan.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstar0102&label=Profile%20views&color=0e75b6&style=flat" alt="kstar0102" /> </p>
